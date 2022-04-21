@@ -1,5 +1,7 @@
 .vs
 src/.vs
+src/.o
 src/Release
 src/Debug
 src/x64
+bin
