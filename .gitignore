@@ -5,3 +5,4 @@ src/Release
 src/Debug
 src/x64
 bin
+.DS_Store
